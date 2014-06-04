@@ -110,6 +110,8 @@ namespace VirtualWall
 
 		private void ReadAsync(Tag tag)
 		{
+			progressDialog.Show ();
+
 			Task.Factory
 		        .StartNew(() =>
 					ReadTagAsync(tag)
