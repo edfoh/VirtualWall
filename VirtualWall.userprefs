@@ -1,11 +1,8 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="ReadNfcActivity.cs">
+  <MonoDevelop.Ide.Workbench>
     <Files>
-      <File FileName="ReadNfcActivity.cs" Line="114" Column="4" />
-      <File FileName="WriteNfcActivity.cs" Line="1" Column="1" />
-      <File FileName="MainActivity.cs" Line="1" Column="1" />
-      <File FileName="Resources\xml\nfc_tech_list.xml" Line="1" Column="1" />
+      <File FileName="MainActivity.cs" Line="4" Column="23" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

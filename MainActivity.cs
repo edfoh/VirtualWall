@@ -8,7 +8,7 @@ using Android.OS;
 
 namespace VirtualWall
 {
-	[Activity (Label = "Virtual Wall", MainLauncher = true)]
+	[Activity (Label = "Virtual Wall")]
 	public class MainActivity : Activity
 	{
 		protected override void OnCreate (Bundle bundle)
